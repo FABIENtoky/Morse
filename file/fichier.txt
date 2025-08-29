@@ -1,1 +1,1 @@
-Modifier ce fichier, le contenu de ce fichier sera ttraduit en code morse qui s'affichera sur la sortie standard.
+Modifier ce fichier, le contenu de ce fichier sera ttraduit en code morse qui s'affichera dans la sortie standard.
