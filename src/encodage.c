@@ -1,4 +1,4 @@
-#include "headers.h"
+#include "../header/headers.h"
 
 int* transformChar (char lettre, int* nbCode) {
 
