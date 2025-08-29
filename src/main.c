@@ -8,7 +8,7 @@ int main (int argc, char* argv[]) {
     char* fichier = argv[2];
 
     if (argc != 3) {
-        printf ("Utilisation : \n./exe [-OPTION] [FICHIER]\n");
+        printf ("Utilisation : \n./exe [-OPTION] [CHEMIN_VERS_FICHIER]\n");
         exit (0);
     }
 
